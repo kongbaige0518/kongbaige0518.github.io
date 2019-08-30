@@ -7,6 +7,9 @@ body {
 	background: #fff;
 }
 
+ul, .white ,li{
+	color:white;
+}
 body a,
 .slider-info a {
 	transition: 0.5s all;
